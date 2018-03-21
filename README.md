@@ -20,3 +20,15 @@
 
 
 To deactivate the virtual environment run `deactivate`
+
+1st task: find what is wrong and fix it. Do you know what have happened? 
+
+    `python -m proj.case_1`
+    
+2nd task: make the script print `Start`, `Finish`, `The end`, do not change the range
+
+    `python -m proj.case_2`
+    
+3rd task: make the script print `This is the end` instead of a generator representation like `<generator ...>`
+
+    `python -m proj.case_3`
